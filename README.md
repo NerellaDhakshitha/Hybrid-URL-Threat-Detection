@@ -176,7 +176,7 @@ The model extracts several handcrafted URL features, including:
 ## Clone the repository
 
 ```bash
-git clone https://github.com/Hansika2024/hybrid-url-threat-detection.git
+git clone [https://github.com/NerellaDhakshitha/Hybrid-URL-Threat-Detection.git]
 ```
 
 ## Navigate to the project
